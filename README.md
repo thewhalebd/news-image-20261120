@@ -1,4 +1,6 @@
 [![Make.fun bounty](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![Rank](https://make.fun/badge/news-image-20261120/thewhalebd/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![Reward](https://make.fun/badge/news-image-20261120/thewhalebd/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
 
 # The World in One Picture — Friday 20 November 2026
 
